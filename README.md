@@ -79,7 +79,7 @@ Bem-vindo à documentação da **Link Shortener API**, um serviço simples para 
 ### **2. Instalação**
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/link-shortener-api.git
+git clone https://github.com/skylinenando//link-shortener-api.git
 cd link-shortener-api
 ```
 
